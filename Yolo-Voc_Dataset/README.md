@@ -3,7 +3,7 @@
 
 # Results
 
-![horses-box](https://github.com/iamsiva11/yolo-keras/tree/master/Yolo-Voc_Dataset/results/horses.png)
+![horses-box](https://github.com/iamsiva11/yolo-keras/blob/master/Yolo-Voc_Dataset/results/horses.png)
 
 
 
